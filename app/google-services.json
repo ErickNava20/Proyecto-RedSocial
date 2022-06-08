@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "906171009696",
+    "project_id": "redsocialuca-e0427",
+    "storage_bucket": "redsocialuca-e0427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906171009696:android:7f930f2d1b1e295cd997c5",
+        "android_client_info": {
+          "package_name": "com.uca.redsocialuca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906171009696-7ln2tnnb6a8t873cco4egq9ljjq6h4ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uca.redsocialuca",
+            "certificate_hash": "a93cf451d61766d2da42f4b96171d716ae3414be"
+          }
+        },
+        {
+          "client_id": "906171009696-frpn1sc0t84m6rpkpstmiag5nifo40t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDry1AY_xrrJLbmADAabif5Br_JaT547js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906171009696-frpn1sc0t84m6rpkpstmiag5nifo40t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
